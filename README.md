@@ -1,0 +1,5 @@
+# MyAbpTodo
+ABP VNEXT launch
+
+基于APB VNEXT的启动项目。
+ASP.NET CORE\SQL SERVER\EF CORE
